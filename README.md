@@ -1,7 +1,7 @@
 You can see the controls with the correct appearance in Xcode. 
 The Label is under the Button and correctly hidden.
 
-![In Xcode](https://github.com/saltzmanjoelh/ToolbarExample/blob/main/In%20Xcode.png?raw=true)
+![Xcode](https://github.com/saltzmanjoelh/ToolbarExample/blob/main/Xcode.png?raw=true)
 
 
 
